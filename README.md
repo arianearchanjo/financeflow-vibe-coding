@@ -160,14 +160,14 @@ Comunicação em português brasileiro, tom acessível e sem jargões.
 
 ## 📸 Prints das Interações com IA
 
-### Interação 1: Plano de MVP + Fluxo de Telas
-![Print 1](link-para-seu-print-1.png)
+### Interação 1: 
+![Print 1](https://github.com/arianearchanjo/financeflow-vibe-coding/blob/main/images/print1.png)
 
-### Interação 2: Persona do Agente Flow
-![Print 2](link-para-seu-print-2.png)
+### Interação 2:
+![Print 2](https://github.com/arianearchanjo/financeflow-vibe-coding/blob/main/images/print2.png)
 
-### Interação 3: Plano de Validação
-![Print 3](link-para-seu-print-3.png)
+### Interação 3:
+![Print 3](https://github.com/arianearchanjo/financeflow-vibe-coding/blob/main/images/print3.png)
 
 ---
 
